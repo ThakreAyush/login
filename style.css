@@ -1,0 +1,15 @@
+input[type="text"],
+input[type="email"],
+input[type="password"],
+textarea {
+  display: block;
+  margin-bottom: 10px;
+}
+
+button[type="submit"] {
+  margin-top: 10px;
+}
+
+#error-message {
+  color: red;
+}
